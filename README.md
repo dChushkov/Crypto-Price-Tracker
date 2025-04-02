@@ -1,4 +1,3 @@
-https://github.com/dChushkov/Crypto-Price-Tracker/blob/main/Screenshot%20.png?raw=true
 # Crypto Price Tracker
 
 A real-time cryptocurrency price tracking application built with Vue 3, TypeScript, and Tailwind CSS. The application fetches live data from the Binance API and provides an interactive interface for monitoring cryptocurrency prices, market caps, and trends.
